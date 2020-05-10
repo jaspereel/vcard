@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  font-family: 'Noto Sans TC', sans-serif;
+  height: 100vh;
+}
+
+.box{
+    width: 400px;
+    height: 640px;
+    border: 1px solid #aaaaaa;
+    background-color: #525e74cb;
+    border-radius: 10px;
+}
+
+.title{
+  font-family: 'Noto Serif TC', serif !important;
+  text-align: center;
+  color: white;
+}
